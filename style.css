@@ -1,0 +1,28 @@
+.light{
+    color: black;
+    background-color: white;
+}
+
+.dark{
+    color: white;
+    background-color: black;
+}
+
+#mode{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 4px solid black;
+    background-color: #A91D3A;
+    color: #EEEEEE;
+
+
+}
+
+.box{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
